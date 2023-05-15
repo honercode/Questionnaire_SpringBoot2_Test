@@ -1,0 +1,21 @@
+{   "id": 1,
+    "title": "问卷标题",
+    "description": "问卷描述",
+    "questionList": [
+        {
+            "id": 1,
+            "title": "问题1",
+            "description": "问题1的描述"
+        },
+        {
+            "id": 2,
+            "title": "问题2",
+            "description": "问题2的描述"
+        },
+        {
+            "id": 3,
+            "title": "问题3",
+            "description": "问题3的描述"
+        }
+    ]
+}

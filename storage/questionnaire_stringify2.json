@@ -1,0 +1,37 @@
+{
+  "id" : 2,
+  "title" : "问卷二",
+  "description" : "描述2",
+  "questions" : [
+    {
+    "questionType" : "0",
+    "id" : 0,
+    "title" : "问题一",
+    "description" : "问题一描述",
+    "questionType" : 0,
+    "options" : [ "选项1", "选项2", "选项3" ],
+    "answerIndex" : -1,
+    "selectedOptionIndex" : -1,
+    "correct" : false
+  },
+    {
+    "questionType" : "1",
+    "id" : 1,
+    "title" : "问题二",
+    "description" : "问题二描述",
+    "questionType" : 1,
+    "options" : [ "选项1", "选项2", "选项3" ],
+    "selectedOptionsIndex" : null,
+    "answerOptionsIndex" : null
+  },
+    {
+    "questionType" : "2",
+    "id" : 2,
+    "title" : "问题三",
+    "description" : "问题三描述",
+    "questionType" : 2,
+    "answer" : null,
+    "correctAnswer" : null
+  }
+  ]
+}
